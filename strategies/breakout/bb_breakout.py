@@ -5,7 +5,7 @@ from pathlib import Path
 ROOT_DIR = Path(__file__).resolve().parents[2]
 sys.path.append(str(ROOT_DIR))
 
-sys.path.append("./Live-Tools-V2")
+sys.path.append("./Live-Tools-V2-main_WORKING")
 
 import asyncio
 from utilities.bitget_perp import PerpBitget
