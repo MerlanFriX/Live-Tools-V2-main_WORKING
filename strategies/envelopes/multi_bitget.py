@@ -1,7 +1,7 @@
 import datetime
 import sys
 
-sys.path.append("./Live-Tools-V2")
+sys.path.append("./Live-Tools-V2-main_WORKING")
 
 import asyncio
 from utilities.bitget_perp import PerpBitget
