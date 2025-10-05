@@ -46,7 +46,7 @@ sudo apt install pip -y
 touch cronlog.log
 
 echo "Installation des packages nécessaires..."
-cd Live-Tools-V2
+cd Live-Tools-V2-main_WORKING
 sudo apt-get install python3-venv -y
 python3 -m venv .venv
 source .venv/bin/activate
